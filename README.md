@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shailen Sharma</h1>
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning reactjs and other frontend frameworks
 
 - 📫 How to reach me **sharmashailen81@gmail.com**
 
